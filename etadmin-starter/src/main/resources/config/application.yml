@@ -15,7 +15,7 @@ spring:
       repositories:
         enabled: false
   #  pid:
-  #    file: /自行指定位置/eladmin.pid
+  #    file: /自行指定位置/etadmin.pid
 
   #配置 Jpa
   jpa:

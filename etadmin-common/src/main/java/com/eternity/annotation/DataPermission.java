@@ -28,7 +28,6 @@ import java.lang.annotation.Target;
  *   应该是 @DataPermission(joinName = "dept", fieldName = "id")
  * </p>
  * @author Zheng Jie
- * @website https://eladmin.vip
  * @date 2020-05-07
  **/
 @Target(ElementType.TYPE)

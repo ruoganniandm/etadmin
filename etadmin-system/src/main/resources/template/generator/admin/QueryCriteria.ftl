@@ -30,7 +30,6 @@ import Query;
 </#if>
 
 /**
-* @website https://eladmin.vip
 * @author ${author}
 * @date ${date}
 **/
